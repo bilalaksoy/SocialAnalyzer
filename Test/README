@@ -1,0 +1,6 @@
+Bu klasör başlangıc olarak Hadoop hakkında yapılan veya yapılacak örnek uygulamalar ve raporları için kullanılacaktır.
+
+Yapılan örnek uygulamarın source  kodları Source  raparlor ise Documentation klasörlerinin altına işlem görecektir.
+
+Örnek  Sounce FaceDataHadoopTest (map.java reduce.java etc)
+       Documantation FaceDataHaoopTest Rapor(pdf ...)
